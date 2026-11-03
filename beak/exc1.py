@@ -24,7 +24,7 @@ for i in range(10):
         break
     print(i)
 
-# * Ejemplo 3 con bucles anidados
+# * Ejemplo 3 con bucles ANIDADOS
 for i in range(5):
     for j in range(5):
         if j == 3:
