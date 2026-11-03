@@ -93,3 +93,13 @@ print(next(it))
 #            |
 #           it
 
+"""For anidados"""
+"""Es posible anidar los for, es decir, meter uno dentro de otro. Esto puede ser 
+muy útil si queremos iterar algún objeto que en cada elemento, tiene a su vez otra
+clase iterable. Podemos tener por ejemplo, una lista de listas, una especie de matriz."""
+
+lista = [[56, 34, 1], [12, 4, 5], [9, 4, 3]]
+for i in lista:
+    for j in i:
+        print(j)
+# Salida: 56,34,1,12,4,5,9,4,3
