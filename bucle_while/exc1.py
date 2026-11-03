@@ -85,8 +85,10 @@ while not keyboard.is_pressed("esc"):
             time.sleep(1)
 
     time.sleep(0.05)
-### *ejemplo 4 bucle anidado: Un bucle anidado es aquel que se encuentra dentro de otro bucle. En este caso,
-### *el bucle externo es un while que se ejecuta mientras el usuario no presione la tecla 'q', y el bucle interno es un while que se ejecuta mientras el usuario no presione la tecla 's'.
+### *ejemplo 4 bucle anidado: Un bucle anidado es aquel que se encuentra dentro
+### *de otro bucle. En este caso, el bucle externo es un while que se ejecuta
+### *mientras el usuario no presione la tecla 'q', y el bucle interno es un while
+### *que se ejecuta mientras el usuario no presione la tecla 's'.
 while not keyboard.is_pressed("q"):
     if keyboard.is_pressed("s"):
         contador = 0
