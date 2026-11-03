@@ -59,3 +59,30 @@ elif x == 21:
     print("Es 21")
 else:
     print("No es 12, 18 ni 21")
+
+"""Operador ternario: Es una forma concisa de escribir un if-else en una sola línea.
+Se utiliza para asignar un valor a una variable según una condición. La sintaxis es:
+[valor_si_condición_es_verdadera] if [condición] else [valor_si_condición_es_falsa]"""
+x = 10
+y = 20
+z = x if x > y else y
+print(z)
+"""Otro ejemplo de operador ternario, donde se evalúa si un número es par o 
+impar y se asigna un mensaje correspondiente a la variable 'resultado'."""
+numero = 7
+resultado = "Es par" if numero % 2 == 0 else "Es impar"
+print(resultado)
+
+"""Otro ejemplo de operador ternario, donde se evalúa si un número es positivo,
+negativo o cero y se asigna un mensaje correspondiente a la variable 
+'resultado'."""
+numero = 0
+resultado = "Es positivo" if numero > 0 else "Es negativo" if numero < 0 else "Es cero"
+print(resultado)
+
+"""Otro ejemplo de operador ternario"""
+a = 21
+b = 7
+c = a / b if b != 0 else -1
+print(c)
+# 3
