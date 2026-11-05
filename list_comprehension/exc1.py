@@ -52,5 +52,18 @@ print(mi_set)
 
 # ! En una lista
 frase = "El perro de san roque no tiene rabo"
-mi_set = [i for i in frase if i == "r" or i == "n"]
-print(mi_set)
+mi_nueva_lista = [i for i in frase if i == "r" or i == "n"]
+print(mi_nueva_lista)
+
+# ** Cuarto ejemplo
+valores = [23, 45, 50, 60, 30, 28, 58]
+val = [20, 23, 38, 39, 50]
+nueva_lista = [x / 2 for x in valores]
+
+print(nueva_lista)
+
+# ** Quinto ejemplo
+otra = [x for x in valores if x in val]
+print(otra)
+
+
