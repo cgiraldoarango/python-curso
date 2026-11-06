@@ -91,6 +91,7 @@ class MiClase:
 
 miobjeto = MiClase([23, 12, 35])
 for item in miobjeto:
+
     print(item)
 
 # Salida: 23, 12, 35
