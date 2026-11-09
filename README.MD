@@ -1,7 +1,7 @@
-🐍 Ruta de Aprendizaje de Python
+# 🐍 Ruta de Aprendizaje de Python
 Repositorio dedicado al estudio, práctica y documentación de Python desde nivel básico hasta avanzado.
 
-🎯 Objetivo
+## 🎯 Objetivo
 Este repositorio reúne tutoriales, ejemplos prácticos, ejercicios y proyectos desarrollados durante mi proceso de aprendizaje de Python.
 
 La meta es construir una base sólida en programación y avanzar progresivamente hacia áreas más especializadas como:
