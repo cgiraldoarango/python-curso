@@ -15,7 +15,7 @@ La meta es construir una base sólida en programación y avanzar progresivamente
 + DevOps y Scripting
 ## 📚 Temario
 1. Fundamentos de Python
-[x] Introducción a Python
+- [x] Introducción a Python
 - []Instalación y entorno de desarrollo
 Variables y tipos de datos
 Operadores
