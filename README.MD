@@ -145,15 +145,15 @@ Soluciones
 Recursos recomendados
 Ejemplo:
 
-01-fundamentos/
-├── teoria.md
-├── ejemplos/
-├── ejercicios/
-└── soluciones/
-📖 Recursos Recomendados
-Documentación Oficial: https://docs.python.org/es/3/
-Real Python: https://realpython.com/
-W3Schools Python: https://www.w3schools.com/python/
+01-fundamentos"""/
+            ├── teoria.md
+            ├── ejemplos/
+            ├── ejercicios/
+            └── soluciones/"""
+## 📖 Recursos Recomendados
++ Documentación Oficial: https://docs.python.org/es/3/
++ Real Python: https://realpython.com/
++ W3Schools Python: https://www.w3schools.com/python/
 FreeCodeCamp
-📜 Licencia
+## 📜 Licencia
 Este repositorio se utiliza con fines educativos y de aprendizaje continuo.
