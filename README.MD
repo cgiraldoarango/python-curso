@@ -139,7 +139,7 @@ La meta es construir una base sólida en programación y avanzar progresivamente
     POO ⬜ Pendiente
     APIs ⬜ Pendiente
     IA ⬜ Pendiente
-    📌 Convenciones
+    ### 📌 Convenciones
     Cada carpeta contiene:
 
 Explicación teórica
@@ -149,7 +149,7 @@ Soluciones
 Recursos recomendados
 Ejemplo:
 
-01-fundamentos /
+01-fundamentos /\
 ├── teoria.md\
 ├── ejemplos/\
 ├── ejercicios/\
