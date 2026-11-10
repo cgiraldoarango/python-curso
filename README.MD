@@ -119,26 +119,29 @@ La meta es construir una base sólida en programación y avanzar progresivamente
     TensorFlow
     Redes Neuronales
     Procesamiento de Lenguaje Natural (NLP)
-15. Proyectos Prácticos
-    Calculadora
-    Gestor de tareas
-    API REST completa
-    Sistema CRUD
-    Web Scraper
-    Chatbot
-    Asistente IA
-    🛠 Requisitos
-    Python 3.12+
-    Visual Studio Code
-    Git
-    GitHub
-    🚀 Progreso
-    Tema Estado
-    Fundamentos ⏳ En progreso
-    Estructuras de Control ⬜ Pendiente
-    POO ⬜ Pendiente
-    APIs ⬜ Pendiente
-    IA ⬜ Pendiente
+
+### 15. Proyectos Prácticos
+
+    - Calculadora
+    - Gestor de tareas
+    - API REST completa
+    - Sistema CRUD
+    - Web Scraper
+    - Chatbot
+    -Asistente IA
+    ### 🛠 Requisitos
+    + Python 3.12+
+    + Visual Studio Code
+    + Git
+    + GitHub
+    ### 🚀 Progreso
+    | Tema                   | Estado         |
+    | ---------------------- | -------------- |
+    | Fundamentos            | ⏳ En progreso |
+    | Estructuras de Control | ⬜ Pendiente   |
+    | POO                    | ⬜ Pendiente   |
+    | APIs                   | ⬜ Pendiente   |
+    | IA                     | ⬜ Pendiente   |
     ### 📌 Convenciones
     Cada carpeta contiene:
 
