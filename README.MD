@@ -21,7 +21,9 @@ La meta es construir una base sólida en programación y avanzar progresivamente
 1. Fundamentos de Python
 
 - [x] Introducción a Python
+
 * [ ] Instalación y entorno de desarrollo
+
 - [x] Variables y tipos de datos
 - [x] Operadores
 - [ ] Entrada y salida de datos
@@ -29,12 +31,14 @@ La meta es construir una base sólida en programación y avanzar progresivamente
 - [x] Comentarios y buenas prácticas
 
 2. Estructuras de Control
+
 - [x] Condicionales (if, elif, else)
 - [x] Operadores lógicos
-- [x]   Bucles for
-- [x]   Bucles while
-- [x]   break, continue y pass
-- [x]   Comprensión de listas
+- [x] Bucles for
+- [x] Bucles while
+- [x] break, continue y pass
+- [x] Comprensión de listas
+
 3. Estructuras de Datos
    Listas
    Tuplas
@@ -145,15 +149,19 @@ Soluciones
 Recursos recomendados
 Ejemplo:
 
-01-fundamentos"""/
-            ├── teoria.md
-            ├── ejemplos/
-            ├── ejercicios/
-            └── soluciones/"""
+01-fundamentos""" /
+├── teoria.md
+├── ejemplos/
+├── ejercicios/
+└── soluciones/ """
+
 ## 📖 Recursos Recomendados
-+ Documentación Oficial: https://docs.python.org/es/3/
-+ Real Python: https://realpython.com/
-+ W3Schools Python: https://www.w3schools.com/python/
-FreeCodeCamp
+
+- Documentación Oficial: https://docs.python.org/es/3/
+- Real Python: https://realpython.com/
+- W3Schools Python: https://www.w3schools.com/python/
+  FreeCodeCamp
+
 ## 📜 Licencia
+
 Este repositorio se utiliza con fines educativos y de aprendizaje continuo.
