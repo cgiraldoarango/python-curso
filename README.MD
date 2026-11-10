@@ -21,7 +21,7 @@ La meta es construir una base sólida en programación y avanzar progresivamente
 1. Fundamentos de Python
 
 - [x] Introducción a Python
-- [] Instalación y entorno de desarrollo
+ [] Instalación y entorno de desarrollo
 - [x] Variables y tipos de datos
 - [x] Operadores
 - [] Entrada y salida de datos
