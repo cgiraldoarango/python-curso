@@ -149,11 +149,11 @@ Soluciones
 Recursos recomendados
 Ejemplo:
 
-01-fundamentos""" /
+01-fundamentos´´´ /
 ├── teoria.md
 ├── ejemplos/
 ├── ejercicios/
-└── soluciones/ """
+└── soluciones/ ´´´
 
 ## 📖 Recursos Recomendados
 
