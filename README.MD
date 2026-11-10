@@ -122,28 +122,34 @@ La meta es construir una base sólida en programación y avanzar progresivamente
 
 ### 15. Proyectos Prácticos
 
-    - Calculadora
-    - Gestor de tareas
-    - API REST completa
-    - Sistema CRUD
-    - Web Scraper
-    - Chatbot
-    -Asistente IA
-    ### 🛠 Requisitos
-    + Python 3.12+
-    + Visual Studio Code
-    + Git
-    + GitHub
-    ### 🚀 Progreso
-    | Tema                   | Estado         |
-    | ---------------------- | -------------- |
-    | Fundamentos            | ⏳ En progreso |
-    | Estructuras de Control | ⬜ Pendiente   |
-    | POO                    | ⬜ Pendiente   |
-    | APIs                   | ⬜ Pendiente   |
-    | IA                     | ⬜ Pendiente   |
-    ### 📌 Convenciones
-    Cada carpeta contiene:
+- Calculadora
+- Gestor de tareas
+- API REST completa
+- Sistema CRUD
+- Web Scraper
+- Chatbot
+  -Asistente IA
+
+### 🛠 Requisitos
+
+- Python 3.12+
+- Visual Studio Code
+- Git
+- GitHub
+
+### 🚀 Progreso
+
+| Tema                   | Estado         |
+| ---------------------- | ---------------|
+| Fundamentos            | ⏳ En progreso |
+| Estructuras de Control | ⬜ Pendiente   |
+| POO                    | ⬜ Pendiente   |
+| APIs                   | ⬜ Pendiente   |
+| IA                     | ⬜ Pendiente   |
+
+### 📌 Convenciones
+
+Cada carpeta contiene:
 
 Explicación teórica
 Ejemplos comentados
