@@ -6,17 +6,17 @@ Este repositorio reúne tutoriales, ejemplos prácticos, ejercicios y proyectos 
 
 La meta es construir una base sólida en programación y avanzar progresivamente hacia áreas más especializadas como:
 
-Desarrollo Backend
-Automatización de procesos
-Análisis de datos
-Inteligencia Artificial
-Machine Learning
-APIs y Microservicios
-DevOps y Scripting
-📚 Temario
++ Desarrollo Backend
++ Automatización de procesos
++ Análisis de datos
++ Inteligencia Artificial
++ Machine Learning
++ APIs y Microservicios
++ DevOps y Scripting
+## 📚 Temario
 1. Fundamentos de Python
-Introducción a Python
-Instalación y entorno de desarrollo
+- [x]Introducción a Python
+- []Instalación y entorno de desarrollo
 Variables y tipos de datos
 Operadores
 Entrada y salida de datos
